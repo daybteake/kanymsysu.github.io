@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "阚佑民 / 个人主页"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "阚佑民"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://daybteake.github.io//kanym1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "GuangDong GuangZhou"
+  employer         : "Sun-Yat Sen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kanym@mial2.sysu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
