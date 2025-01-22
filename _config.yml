@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-"
-title                    : "阚佑民 / 个人主页"
+locale                   : "en-US"
+title                    : "kanym / PersonalHomepage"
 title_separator          : "-"
 name                     : &name "阚佑民"
 description              : &description "中山大学物理学院2023拔尖计划2.0成员"
