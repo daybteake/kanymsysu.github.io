@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Ch"
+locale                   : "en-"
 title                    : "阚佑民 / 个人主页"
 title_separator          : "-"
 name                     : &name "阚佑民"
@@ -22,9 +22,9 @@ repository               : "daybteake/kanymsysu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "阚佑民"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "中山大学物理学院2023拔尖计划2.0成员"
   location         : "GuangDong GuangZhou"
   employer         : "Sun-Yat Sen University"
   uri              : # URL
