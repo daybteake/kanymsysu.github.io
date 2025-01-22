@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Ch"
 title                    : "阚佑民 / 个人主页"
 title_separator          : "-"
 name                     : &name "阚佑民"
-description              : &description "personal description"
+description              : &description "中山大学物理学院2023拔尖计划2.0成员"
 url                      : https://daybteake.github.io//kanymsysu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daybteake/kanymsysu.github.io"
